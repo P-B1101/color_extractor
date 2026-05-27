@@ -10,8 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  camerawesome: ^2.1.0
-  http: ^1.2.2
   logger: ^2.4.0
   image: ^4.3.0
   meta: ^1.15.0
